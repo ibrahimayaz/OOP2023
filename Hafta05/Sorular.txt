@@ -1,0 +1,16 @@
+--- Ürün ve Kategori sınıflarını çoka çok ilişki olacak 
+şekilde sınıf diyagramını ve c# kodunu yazınız.
+
+
+----Öğrenci ve Kitap sınıflarını tek yönlü olacak şekilde 
+sınıf diyagramını ve c# kodunu yazınız.
+
+
+--- Fabrika ve Makina sınıflarına ait sınıf diyagramını 
+çizerek c# kodunu yazınız.
+
+
+###  ÖDEV
+--- Bolum, Ogrenci ve Ders sınıflarını ait ilişkiyi, 
+çokluk durumlarını ve sınıf diyagramını çiziniz. Çizdiğiniz sınıf diyagramının
+C# kodunu yazınız. 

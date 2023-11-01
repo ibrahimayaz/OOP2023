@@ -1,0 +1,8 @@
+@startuml
+
+class Fabrika{
+    String ad
+}
+
+
+@enduml
